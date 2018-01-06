@@ -1,11 +1,11 @@
-Developing initially for local use in and around Placerville, CA 
+Developing for local use in and around El Dorado County, CA - 
  Requirements
   Easy to install and use
   Few to no transaction fees for users
  Features
   Immediately exchangeable for GEM goods and services
   Provide payment platform for otherwise unaffordable classes, workshops, et cetera
-  Back by a store of dollar and physical value which GEM coop will commit   
+  Back by a store of dollar, Ethereum, and/or and physical value which users will commit   
 
 Process
  Create testnet 
@@ -16,8 +16,14 @@ Process
   Focus on core users, rather than anonymous Internet buyers
 
 To decide
+ El Doradocoin
  Method for generating coins
   Sale/backing of physical goods
+  Base on Ethereum, backed by mining contract
+   Coded in contract to devote a percentage of total funds to mining Ethereum as store-of-value basis
+   Coins can be redeemed for Ethereum at any time for a 50% transaction fee 
+   Contract allows/forces for periodic decision by stakeholders of what to base store-of-value on, potential to fork.  
+    Input commensurate with hodlings??
   Time effort by a person
   Central gembank 
 
